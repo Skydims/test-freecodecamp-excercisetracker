@@ -4,6 +4,7 @@ This is the boilerplate for the Exercise Tracker project. Instructions for build
 
 npm install 
 
+rename file sampele.env dulu menjadi .env
 dan menjalankan 
 
 npm start
